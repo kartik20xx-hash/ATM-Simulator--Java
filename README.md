@@ -15,8 +15,7 @@ A console-based ATM system with:
 javac Main.java
 java Main
 
-##code 
-
+# Code 
 import java.util.*;
 public class Main{
     public static int deposit(int balance,int amount){
