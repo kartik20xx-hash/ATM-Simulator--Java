@@ -17,11 +17,6 @@ java Main
 
 ##code 
 
-
-
-
-
-
 import java.util.*;
 public class Main{
     public static int deposit(int balance,int amount){
